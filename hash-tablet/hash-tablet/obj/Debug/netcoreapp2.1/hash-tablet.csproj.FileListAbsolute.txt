@@ -1,0 +1,11 @@
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\bin\Debug\netcoreapp2.1\hash-tablet.deps.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\bin\Debug\netcoreapp2.1\hash-tablet.runtimeconfig.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\bin\Debug\netcoreapp2.1\hash-tablet.runtimeconfig.dev.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\bin\Debug\netcoreapp2.1\hash-tablet.dll
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\bin\Debug\netcoreapp2.1\hash-tablet.pdb
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.csprojAssemblyReference.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.csproj.CoreCompileInputs.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.AssemblyInfoInputs.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.AssemblyInfo.cs
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.dll
+C:\Users\user.v2.0\Documents\GitHub\algorithms\hash-tablet\hash-tablet\obj\Debug\netcoreapp2.1\hash-tablet.pdb
