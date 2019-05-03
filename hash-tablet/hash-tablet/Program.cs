@@ -8,7 +8,8 @@ namespace hash_tablet
         {
             Hashtable hash_table = new Hashtable();
             hash_table.Add("it is my hash", "really yours?");
-            //var hashValue = hash_table["it is my hash"];
+            //hash_table["it is my hash"]= '1';
+            //Console.WriteLine(hash_table["it is my hash"]);
             //Console.WriteLine(hashValue);
             Console.WriteLine(ContainsKey(hash_table));
             Console.WriteLine(ContainsValue(hash_table));
@@ -55,6 +56,7 @@ namespace hash_tablet
             hashtable.Clear();
             return hashtable.Count;
         }
+        
         // поиск по значению значительно медленне поиска по ключу. Почему? 
         // наверное потому что хэш-функцие приходиться перебирать все ключи и сверять значения(при условии , что нет функции, обратной хэш(скорее всего)) O(n)
     }

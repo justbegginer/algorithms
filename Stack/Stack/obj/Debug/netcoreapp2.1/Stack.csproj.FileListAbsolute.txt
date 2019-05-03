@@ -1,0 +1,11 @@
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.deps.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.dev.json
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.dll
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.pdb
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csprojAssemblyReference.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfoInputs.cache
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfo.cs
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.dll
+C:\Users\user.v2.0\Documents\GitHub\algorithms\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.pdb
